@@ -1,0 +1,16 @@
+Site,Group,Capreolus_capreolus,Gazella_gazella,Dama_dama,Ovis_gmelin,Cervus_elaphus,Rupicapra_rupicapra,Capra_aegagrus,Sus_scrofa,Oryctolagus_cuniculus,Lepus_capansis,Lepus_europaeus,Erinaceus_roumanicus,Erinaceus_concolor,Hemiechinus_auritus,Ursus_arctos,Canis_aureus,Canis_lupus,Vulpes_vulpes,Hyaena_hyaena,Lynx_lynx,Caracal_caracal,Felis_silvestris ,Felis_chaus,Lutra_lutra,Martes_martes,Martes_foina,Vormela_peregusna,Meles_canescens,Meles_meles,Mustela_putorius,Mustela_nivalis,Hystrix_indica,Herpestes_ichneuman,Sciurus_anomalus,Sciurus_vulgaris,Spermophilus_citellus,Spermophilus_xanthoprymnus,Scarturus_williamsi,Myocastor_coypus
+Agri,East,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0
+Bingol,East,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,0
+Van,East,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0
+Batman,East,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0
+Bitlis,East,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0
+Kars,East,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0
+Igdir,East,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+Artvin,East,1,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,0,0,0
+Bursa,West,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0
+Yozgat,West,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,1,0,0
+Mugla,West,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0
+Sinop,West,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,1,1,0,1,0,1,0,1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0
+Corum,West,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,1,1,0,1,0,1,0,1,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0
+Manisa,West,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0
+Kirklareli,West,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,1,0,1,1,1,1,0,1,1,1,0,0,0,1,1,0,0,0
